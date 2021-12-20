@@ -1,10 +1,12 @@
 <p align="center">
 <img width="680px" height="auto"  src="https://raw.githubusercontent.com/CodingBDX/CodingBDX/main/header.jpg" alt="my banner">
                                                                       
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1 align=center><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>:vulcan_salute: Hey! Nice to see you.</h1>
 
 <hr>
-<p>Welcome to my github! </br> I'm Tony nickname The Noob Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Bordeaux, France</b>. </p>
+<p>Welcome to my github! </br> I'm Tony nickname The Noob Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Bordeaux, France</b>.  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
+      <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="20" width="70" >
+    </a></p>
 <h3>- 🔭 I’m currently working on ...</h3>
 <p>
 
@@ -51,6 +53,11 @@
 </p>
 <h3>- 👯 I’m looking to collaborate on ...  </h3>                                                                                                                                    <p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/antony-charier-8b6104212/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
-                                                                     
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingBDX&layout=compact&show_icons=true&theme=radical)](https://github.com/CodingBDX)
+      
+
+<h2>Latest Tweets</h2>
+<p><a href="https://twitter.com/mokkapps"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=mokkapps&amp;layout=wide" alt="github-readme-twitter"></a></p>
+<h2>GitHub Stats</h2>                                                               
+  <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CodingBDX&amp;show_icons=true&theme=dracula" alt="GitHub Stats"></p>
 </p>
