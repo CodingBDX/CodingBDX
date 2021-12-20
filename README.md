@@ -1,5 +1,5 @@
-<p align=”center”>
-<img width=”100%" height=”auto"  src=”https://raw.githubusercontent.com/CodingBDX/CodingBDX/main/header.jpg" alt=”my banner”>
+<p align="center">
+<img width="680px" height="auto"  src="https://raw.githubusercontent.com/CodingBDX/CodingBDX/main/header.jpg" alt="my banner">
                                                                       </p>
 ### Hi there 👋
 
