@@ -7,11 +7,13 @@
 <p>Welcome to my github! </br> I'm Tony nickname The Noob Web Developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Bordeaux, France</b>.  <a href="https://www.buymeacoffee.com/mokkapps" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="20" width="70" >
     </a></p>
-<h3>- 🔭 I’m currently working on ...</h3>
+<h3>- 🔭 I’m not bad on ...</h3>
 <p>
-
+  <img alt="angular" src="https://img.shields.io/badge/-Javascript-DD0031?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="CSS" src="https://img.shields.io/badge/-css-yellow?style=flat-square&logo=css3&logoColor=white" />
+   <img alt="Python" src="https://img.shields.io/badge/-Python-1f425f?style=flat-square&logo=python&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github-2088FF?style=flat-square&logo=github&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -55,7 +57,7 @@
 </p>
       
 
-<h2>Latest Tweets</h2>
+<h2 align="center">My RoadMap</h2>
 <p><a href="https://twitter.com/mokkapps"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=mokkapps&amp;layout=wide" alt="github-readme-twitter"></a></p>
 <h2>GitHub Stats</h2>                                                               
   <p align="center">
