@@ -58,7 +58,7 @@
       
 
 <h2 align="center">My RoadMap</h2>
-<p><a href="https://twitter.com/mokkapps"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=mokkapps&amp;layout=wide" alt="github-readme-twitter"></a></p>
+<img width="680px" height="auto"  src="https://raw.githubusercontent.com/CodingBDX/CodingBDX/main/roadmapwebdeveloper.png" alt="my roadmap">
 <h2>GitHub Stats</h2>                                                               
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodingBDX&amp;show_icons=true&theme=dracula" alt="GitHub Stats"></p>
