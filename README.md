@@ -14,6 +14,8 @@
 https://tributepagebordeauxbdx.netlify.app/
 
 https://surveyformbordeauxbdx.netlify.app/
+
+python magic create proxy card => https://drive.google.com/file/d/1apnd46hGX5n61KTc3HEa5_ON2HVvxsgP/view?usp=sharing
 <h3>- 🔭 I’m not bad on ...</h3>
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Javascript-DD0031?style=flat-square&logo=javascript&logoColor=white" />
