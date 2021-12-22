@@ -58,7 +58,8 @@
       
 
 <h2 align="center">My RoadMap</h2>
-<img width="680px" height="auto"  src="https://raw.githubusercontent.com/CodingBDX/CodingBDX/main/roadmapwebdeveloper.png" alt="my roadmap">
+<p align="center">
+<img width="100%" height="auto"  src="https://raw.githubusercontent.com/CodingBDX/CodingBDX/main/roadmapwebdeveloper.png" alt="my roadmap"></p>
 <h2>GitHub Stats</h2>                                                               
   <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CodingBDX&amp;show_icons=true&theme=dracula" alt="GitHub Stats"></p>
