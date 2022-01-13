@@ -15,7 +15,7 @@ https://tributepagebordeauxbdx.netlify.app/
 
 https://surveyformbordeauxbdx.netlify.app/
 
-nodejs=> scraper programtv for api => https://programtv.herokuapp.com/results
+nodejs=> scraper programtv for api => https://programtv.herokuapp.com/
 
 javascript => flappy bird game with assets=> https://flappybdx.netlify.app/
 javascript => api script for random card MTG => https://apimagic.netlify.app/
