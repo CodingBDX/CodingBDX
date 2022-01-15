@@ -9,11 +9,13 @@
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="20" width="70" >
     </a></p>
     <h3>-:heartbeat: Website or training, i'm coding</h3>
-   not work, netlify suspend my account [ https://mtg-proxy.netlify.app/
+   not work, netlify suspend my account [ https://mtg-proxy.netlify.app/ ]
     
-https://tributepagebordeauxbdx.netlify.app/
+freecodecamp => tribute => https://tributecodingbdx.herokuapp.com/index.html
 
-https://surveyformbordeauxbdx.netlify.app/ ]
+freecodecamp => survey => https://surveycodingbdx.herokuapp.com/index.html
+
+freecodecamp => landing page => https://landingcodingbdx.herokuapp.com/index.html
 
 nodejs=> scraper programtv for api => https://programtv.herokuapp.com/
 
