@@ -17,8 +17,8 @@ https://surveyformbordeauxbdx.netlify.app/
 
 nodejs=> scraper programtv for api => https://programtv.herokuapp.com/
 
-javascript => flappy bird game with assets=> https://flappybdx.netlify.app/
-javascript => api script for random card MTG => https://apimagic.netlify.app/
+javascript => flappy bird game with assets=> https://flappycodingbdx.herokuapp.com/index.html
+javascript => api script for random card MTG => https://apimagiccodingbdx.herokuapp.com/index.html
 
 react => simple calcul game addition => https://numerobdx.netlify.app/
 
