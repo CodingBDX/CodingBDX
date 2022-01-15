@@ -20,7 +20,7 @@ nodejs=> scraper programtv for api => https://programtv.herokuapp.com/
 javascript => flappy bird game with assets=> https://flappycodingbdx.herokuapp.com/index.html
 javascript => api script for random card MTG => https://apimagiccodingbdx.herokuapp.com/index.html
 
-react => simple calcul game addition => https://numerobdx.netlify.app/
+react => simple calcul game addition => https://reactnumbercodingbdx.herokuapp.com/index.html
 
 python magic create proxy card => https://drive.google.com/file/d/1apnd46hGX5n61KTc3HEa5_ON2HVvxsgP/view?usp=sharing
 <h3>- 🔭 I’m not bad on ...</h3>
