@@ -9,11 +9,11 @@
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="20" width="70" >
     </a></p>
     <h3>-:heartbeat: Website or training, i'm coding</h3>
-    https://mtg-proxy.netlify.app/
+   not work, netlify suspend my account [ https://mtg-proxy.netlify.app/
     
 https://tributepagebordeauxbdx.netlify.app/
 
-https://surveyformbordeauxbdx.netlify.app/
+https://surveyformbordeauxbdx.netlify.app/ ]
 
 nodejs=> scraper programtv for api => https://programtv.herokuapp.com/
 
