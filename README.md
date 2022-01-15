@@ -17,6 +17,8 @@ https://surveyformbordeauxbdx.netlify.app/
 
 nodejs=> scraper programtv for api => https://programtv.herokuapp.com/
 
+project enter to wild code school => https://wildcodeschoolcodingbdx.herokuapp.com/index.html
+
 javascript => flappy bird game with assets=> https://flappycodingbdx.herokuapp.com/index.html
 javascript => api script for random card MTG => https://apimagiccodingbdx.herokuapp.com/index.html
 
