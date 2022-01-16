@@ -23,6 +23,8 @@ project enter to wild code school => https://wildcodeschoolcodingbdx.herokuapp.c
 
 javascript => flappy bird game with assets=> https://flappycodingbdx.herokuapp.com/index.html
 
+javascript => snake with shake => https://snakekaboomcodingbdx.herokuapp.com/index.html
+
 javascript => api script for random card MTG => https://apimagiccodingbdx.herokuapp.com/index.html
 
 react => simple calcul game addition => https://reactnumbercodingbdx.herokuapp.com/index.html
