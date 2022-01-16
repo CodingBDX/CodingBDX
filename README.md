@@ -22,11 +22,13 @@ nodejs=> scraper programtv for api => https://programtv.herokuapp.com/
 project enter to wild code school => https://wildcodeschoolcodingbdx.herokuapp.com/index.html
 
 javascript => flappy bird game with assets=> https://flappycodingbdx.herokuapp.com/index.html
+
 javascript => api script for random card MTG => https://apimagiccodingbdx.herokuapp.com/index.html
 
 react => simple calcul game addition => https://reactnumbercodingbdx.herokuapp.com/index.html
 
-python magic create proxy card => https://drive.google.com/file/d/1apnd46hGX5n61KTc3HEa5_ON2HVvxsgP/view?usp=sharing
+python magic create proxy card windows exe => https://drive.google.com/file/d/1apnd46hGX5n61KTc3HEa5_ON2HVvxsgP/view?usp=sharing
+
 <h3>- 🔭 I’m not bad on ...</h3>
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Javascript-DD0031?style=flat-square&logo=javascript&logoColor=white" />
