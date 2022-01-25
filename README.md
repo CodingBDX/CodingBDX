@@ -27,6 +27,8 @@ javascript => snake with shake => https://snakekaboomcodingbdx.herokuapp.com/ind
 
 javascript => api script for random card MTG => https://apimagiccodingbdx.herokuapp.com/index.html
 
+javasript => popup && todolist => https://codingbdxtodolist.herokuapp.com/index.html
+
 react => simple calcul game addition => https://reactnumbercodingbdx.herokuapp.com/index.html
 
 python magic create proxy card windows exe => https://drive.google.com/file/d/1apnd46hGX5n61KTc3HEa5_ON2HVvxsgP/view?usp=sharing
