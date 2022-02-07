@@ -29,6 +29,8 @@ javascript => api script for random card MTG => https://apimagiccodingbdx.heroku
 
 javasript => popup && todolist => https://codingbdxtodolist.herokuapp.com/index.html
 
+javascript => age random choice picker => https://birthday-choice.herokuapp.com/index.html
+
 react => simple calcul game addition => https://reactnumbercodingbdx.herokuapp.com/index.html
 
 python magic create proxy card windows exe => https://drive.google.com/file/d/1apnd46hGX5n61KTc3HEa5_ON2HVvxsgP/view?usp=sharing
