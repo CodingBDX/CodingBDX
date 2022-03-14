@@ -18,6 +18,9 @@ freecodecamp => survey => https://surveycodingbdx.herokuapp.com/index.html
 freecodecamp => landing page => https://landingcodingbdx.herokuapp.com/index.html
 
 nodejs=> scraper programtv for api => https://programtv.herokuapp.com/
+nodejs=> todolist try but its not work=> https://codingbdx-todo.herokuapp.com/todo
+
+react=>a little portofolio for try react understand => https://codingbdx.github.io/react-portfolio
 
 project enter to wild code school => https://wildcodeschoolcodingbdx.herokuapp.com/index.html
 
