@@ -19,6 +19,7 @@ freecodecamp => landing page => https://landingcodingbdx.herokuapp.com/index.htm
 
 nodejs=> scraper programtv for api => https://programtv.herokuapp.com/
 nodejs=> todolist try but its not work=> https://codingbdx-todo.herokuapp.com/todo
+nodejs=> un petit chat qui marche a 50% => https://codingbdx-nodejs-chat.herokuapp.com/
 
 react=>a little portofolio for try react understand => https://codingbdx.github.io/react-portfolio
 
