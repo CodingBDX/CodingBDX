@@ -1,7 +1,4 @@
-<style>
-red { color: red }
-yellow { color: yellow }
-</style>
+
 <p align="center">
 <img width="680px" height="auto"  src="https://raw.githubusercontent.com/CodingBDX/CodingBDX/main/header.jpg" alt="my banner">
                                                                       
