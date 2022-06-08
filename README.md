@@ -27,6 +27,7 @@ yellow { color: yellow }
 - [api fetch profil github javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/github-profil/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/github-profil) ]
 - [api movie fetch javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/movie-app/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/movie-app) ]
 - [password generator javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/password/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/password) ]
+- [simple quizz javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/ninja-quizz/index.html) || [ [github project]([https://github.com/CodingBDX/javascript/tree/main/prototype/quizz-ninja)) ]
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
