@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning **react,symfony,laravel,docker**
 
 - 👯 I have made this projects 
-- <h2 style="color:red">Javascript</h2>
+- <span style="color:red">Javascript</span>
 - [api magic fetch javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/apimagic/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/apimagic) ]
 - [generator birthday date javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/birthday%20random/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/birthday%20random) ]
 - [api fetch profil github javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/github-profil/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/github-profil) ]
