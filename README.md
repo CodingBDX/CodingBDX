@@ -17,8 +17,8 @@
 - 🌱 I’m currently learning **react,symfony,laravel,docker**
 
 - 👯 I have made this projects 
-- [app ciname javascript](http://github.io/ssdf) || [ [github project](http://github.io/ssdf) ]
-- [app ciname javascript](http://github.io/ssdf) || [ [github project](http://github.io/ssdf) ]
+- [api magic fetch javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/apimagic/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/apimagic) ]
+- [app javascript](http://github.io/ssdf) || [ [github project](http://github.io/ssdf) ]
 - [app ciname javascript](http://github.io/ssdf) || [ [github project](http://github.io/ssdf) ]
 - [app ciname javascript](http://github.io/ssdf) || [ [github project](http://github.io/ssdf) ]
 - [app ciname javascript](http://github.io/ssdf) || [ [github project](http://github.io/ssdf) ]
