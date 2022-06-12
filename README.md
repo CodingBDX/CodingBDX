@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **react,symfony,laravel,docker**
 
 - 👯 I have made this projects 
-- <h3><red>Javascript</red></h3>
+<h3><red>Javascript</red></h3>
 - [api magic fetch javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/apimagic/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/apimagic) ]
 - [generator birthday date javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/birthday%20random/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/birthday%20random) ]
 - [api fetch profil github javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/github-profil/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/github-profil) ]
@@ -27,6 +27,7 @@
 - [simple quizz javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/quizz-ninja/index.html) ||  [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/quizz-ninja) ]
 <hr>
 <h3>react framework</h3>
+- [api fetch tmdb react](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/apimagic/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/apimagic) ]
 -[movie api react](https://glacial-depths-44568.herokuapp.com) ||  [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/quizz-ninja) ]
 <hr>
 <h3 align="left">Connect with me:</h3>
