@@ -26,7 +26,7 @@
 - [password generator javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/password/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/password) ]
 - [simple quizz javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/quizz-ninja/index.html) ||  [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/quizz-ninja) ]
 - <h3>react framework</h3>
-- [api fetch tmdb react](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/apimagic/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/apimagic) ]
+
 -[movie api react](https://glacial-depths-44568.herokuapp.com) ||  [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/quizz-ninja) ]
 <hr>
 <h3 align="left">Connect with me:</h3>
