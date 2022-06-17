@@ -29,8 +29,13 @@
 
 - [movie api react](https://glacial-depths-44568.herokuapp.com) ||  [ [github project](https://github.com/CodingBDX/react-app-movie) ]
 - [game paper,rock,scissors react](https://warm-journey-88259.herokuapp.com/) ||  [ [github project](https://github.com/CodingBDX/react-paper-rock) ]
-- [shortcut api react](
-- [movie api react](https://warm-ocean-38973.herokuapp.com/) ||  [ [github project](https://github.com/CodingBDX/react-app-movie) ]
+- [shortcut api react](https://warm-ocean-38973.herokuapp.com/) ||  [ [github project](https://github.com/CodingBDX/react-shortcut) ]
+- [portfolio api react](https://codingbdx.github.io/react-portfolio) ||  [ [github project](https://github.com/CodingBDX/react-portfolio) ]
+- [simple game caculator react](https://reactnumbercodingbdx.herokuapp.com/index.html) ||  [ [github project](https://github.com/CodingBDX/react) ]
+- <h3>NodeJS</h3>
+- [scraper program tv for api](https://programtv.herokuapp.com/) ||  [ [github project](https://github.com/CodingBDX/nodejs) ]
+- [todolist nodejs](https://codingbdx-todo.herokuapp.com/todo) ||  [ [github project](https://github.com/CodingBDX/nodejs-todo) ]
+- [tchat socket nodejs](https://codingbdx-nodejs-chat.herokuapp.com/) ||  [ [github project](https://github.com/CodingBDX/nodejs-chat) ]
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
