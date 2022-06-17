@@ -6,7 +6,7 @@
 
 
 <hr>
-<h1 align="center">Hi 👋, I'm Antony The CodingBDX</h1>
+<h1 align="center">I'm Antony nickname CodingBDX from Bordeaux, France.</h1>
 <h3 align="center">A passionate frontend/backend developer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codingbdx&label=Profile%20views&color=0e75b6&style=flat" alt="codingbdx" /> </p>
@@ -18,6 +18,7 @@
 - 🌱 I’m currently learning **react,symfony,laravel,docker**
 
 - 👯 I have made this projects 
+- <h3><red>[Mon CV](http://htmlpreview.github.io/?https://github.com/CodingBDX/html-css/blob/main/prototype/cv-anto/index.html) </red></h3>
 - <h3><red>Apprentissage langage</red></h3>
 - [php8 repository](https://github.com/CodingBDX/php8) 
 - [larevel9 repository](https://github.com/CodingBDX/laravel-9) 
