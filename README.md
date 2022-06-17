@@ -29,6 +29,7 @@
 - [wildcodeschool enter project with bootstrap](https://wildcodeschoolcodingbdx.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/wilcodeschool) ]
 - <h3><red>Javascript</red></h3>
 - [api magic fetch javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/apimagic/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/apimagic) ]
+- [todolist javascript](https://codingbdxtodolist.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/apimagic) ]
 - [generator birthday date javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/birthday%20random/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/birthday%20random) ]
 - [api fetch profil github javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/github-profil/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/github-profil) ]
 - [api movie fetch javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/movie-app/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/movie-app) ]
@@ -50,7 +51,7 @@
 - [php recette pizza](pas disponible) ||  [ [github project](https://github.com/CodingBDX/php-add-pizza) ]
 - [php ruchet des lilas, site associatif](pas disponible) ||  [ [github project](https://github.com/CodingBDX/php-lerucherdeslilas) ]
 - <h3>Python</h3>
-- [fetch magic card compile for windows!](https://drive.google.com/file/d/1apnd46hGX5n61KTc3HEa5_ON2HVvxsgP/view?usp=sharing) ||  [no github project]
+- [fetch magic card compile for windows!](https://drive.google.com/file/d/1apnd46hGX5n61KTc3HEa5_ON2HVvxsgP/view?usp=sharing) ||  [[github project](https://github.com/CodingBDX/magic_proxy)]
 - [little snake game into terminal] ||  [ [github project](https://github.com/CodingBDX/python/tree/main/prototype/snake) ]
 <hr>
 <h3 align="left">Connect with me:</h3>
