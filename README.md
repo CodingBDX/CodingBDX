@@ -25,7 +25,7 @@
 - [api movie fetch javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/movie-app/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/movie-app) ]
 - [password generator javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/password/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/password) ]
 - [simple quizz javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/quizz-ninja/index.html) ||  [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/quizz-ninja) ]
-- [tchat with firebase javascript !==firebase close my account -_-](https://chat1codingbdx.herokuapp.com/index.html) || [github project][https://github.com/CodingBDX/javascript/tree/main/prototype/chatroom) ]
+- [tchat with firebase javascript !==firebase close my account -_-](https://chat1codingbdx.herokuapp.com/index.html) ||  [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/chatroom) ]
 - <h3>react framework</h3>
 
 - [movie api react](https://glacial-depths-44568.herokuapp.com) ||  [ [github project](https://github.com/CodingBDX/react-app-movie) ]
