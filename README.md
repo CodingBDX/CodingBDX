@@ -50,8 +50,8 @@
 - [php recette pizza](pas disponible) ||  [ [github project](https://github.com/CodingBDX/php-add-pizza) ]
 - [php ruchet des lilas, site associatif](pas disponible) ||  [ [github project](https://github.com/CodingBDX/php-lerucherdeslilas) ]
 - <h3>Python</h3>
-- [fetch magic card compile for windows!](https://drive.google.com/file/d/1apnd46hGX5n61KTc3HEa5_ON2HVvxsgP/view?usp=sharing) ||  [ [github project]() ]
-- [little snake game into terminal](pas disponible) ||  [ [github project](https://github.com/CodingBDX/python/tree/main/prototype/snake) ]
+- [fetch magic card compile for windows!](https://drive.google.com/file/d/1apnd46hGX5n61KTc3HEa5_ON2HVvxsgP/view?usp=sharing) ||  [no github project]
+- [little snake game into terminal] ||  [ [github project](https://github.com/CodingBDX/python/tree/main/prototype/snake) ]
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
