@@ -18,6 +18,10 @@
 - 🌱 I’m currently learning **react,symfony,laravel,docker**
 
 - 👯 I have made this projects 
+- <h3><red>Apprentissage langage</red></h3>
+- [php8 repository](https://github.com/CodingBDX/php8) 
+- [larevel9 repository](https://github.com/CodingBDX/laravel-9) 
+- [symfony6 simple crud for blog system](https://github.com/CodingBDX/symfony) 
 - <h3><red>HTML && CSS</red></h3>
 - [freecodecamp tribute](https://tributecodingbdx.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/html-css/tree/main/training/freecodecamp/tribute_page) ]
 - [freecodecamp landing](https://landingcodingbdx.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/html-css/tree/main/training/freecodecamp/landing_page) ]
@@ -42,6 +46,12 @@
 - [scraper program tv for api](https://programtv.herokuapp.com/) ||  [ [github project](https://github.com/CodingBDX/nodejs) ]
 - [todolist nodejs](https://codingbdx-todo.herokuapp.com/todo) ||  [ [github project](https://github.com/CodingBDX/nodejs-todo) ]
 - [tchat socket nodejs](https://codingbdx-nodejs-chat.herokuapp.com/) ||  [ [github project](https://github.com/CodingBDX/nodejs-chat) ]
+- <h3>PHP</h3>
+- [php recette pizza](pas disponible) ||  [ [github project](https://github.com/CodingBDX/php-add-pizza) ]
+- [php ruchet des lilas, site associatif](pas disponible) ||  [ [github project](https://github.com/CodingBDX/php-lerucherdeslilas) ]
+- <h3>Python</h3>
+- [fetch magic card compile for windows!](https://drive.google.com/file/d/1apnd46hGX5n61KTc3HEa5_ON2HVvxsgP/view?usp=sharing) ||  [ [github project]() ]
+- [little snake game into terminal](pas disponible) ||  [ [github project](https://github.com/CodingBDX/python/tree/main/prototype/snake) ]
 <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
