@@ -28,6 +28,10 @@
 - [freecodecamp landing](https://landingcodingbdx.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/html-css/tree/main/training/freecodecamp/landing_page) ]
 - [freecodecamp survey](https://surveycodingbdx.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/html-css/tree/main/training/freecodecamp/survey_form) ]
 - [wildcodeschool enter project with bootstrap](https://wildcodeschoolcodingbdx.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/wilcodeschool) ]
+- [page cocacola animation css](http://htmlpreview.github.io/?https://github.com/CodingBDX/html-css/blob/main/prototype/cocacola/index.html) || [ [github project](https://github.com/CodingBDX/html-css/tree/main/prototype/education) ]
+- [page education test svg](http://htmlpreview.github.io/?https://github.com/CodingBDX/html-css/blob/main/prototype/education/index.html) || [ [github project](https://github.com/CodingBDX/html-css/tree/main/prototype/cocacola) ]
+- [page inseepia for api](http://htmlpreview.github.io/?https://github.com/CodingBDX/html-css/blob/main/prototype/fruitopia/index.html) || [ [github project](https://github.com/CodingBDX/html-css/tree/main/prototype/fruitopia) ]
+- [page animation css](http://htmlpreview.github.io/?https://github.com/CodingBDX/html-css/blob/main/prototype/urban-fashion/index.html) || [ [github project](https://github.com/CodingBDX/html-css/tree/main/prototype/urban-fashion) ]
 - <h3><red>Javascript</red></h3>
 - [api magic fetch javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/apimagic/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/apimagic) ]
 - [todolist javascript](https://codingbdxtodolist.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/apimagic) ]
