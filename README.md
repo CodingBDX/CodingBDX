@@ -30,6 +30,10 @@
 - <h3><red>Javascript</red></h3>
 - [api magic fetch javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/apimagic/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/apimagic) ]
 - [todolist javascript](https://codingbdxtodolist.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/apimagic) ]
+- [weather api app javascript](http://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/weather_app/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/weather_app) ]
+- [game like flappybird! javascript](https://flappycodingbdx.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/flappy) ]
+- [game like snake! with BOOM javascript](https://snakekaboomcodingbdx.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/snakekaboom) ]
+- [API from insee official javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/api-insee/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/api-insee) ]
 - [generator birthday date javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/birthday%20random/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/birthday%20random) ]
 - [api fetch profil github javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/github-profil/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/github-profil) ]
 - [api movie fetch javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/movie-app/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/movie-app) ]
