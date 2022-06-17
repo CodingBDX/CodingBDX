@@ -18,6 +18,11 @@
 - 🌱 I’m currently learning **react,symfony,laravel,docker**
 
 - 👯 I have made this projects 
+- <h3><red>HTML && CSS</red></h3>
+- [freecodecamp tribute](https://tributecodingbdx.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/html-css/tree/main/training/freecodecamp/tribute_page) ]
+- [freecodecamp landing](https://landingcodingbdx.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/html-css/tree/main/training/freecodecamp/landing_page) ]
+- [freecodecamp survey](https://surveycodingbdx.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/html-css/tree/main/training/freecodecamp/survey_form) ]
+- [wildcodeschool enter project with bootstrap](https://wildcodeschoolcodingbdx.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/wilcodeschool) ]
 - <h3><red>Javascript</red></h3>
 - [api magic fetch javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/apimagic/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/apimagic) ]
 - [generator birthday date javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/birthday%20random/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/birthday%20random) ]
