@@ -62,6 +62,7 @@
 - [php recette pizza](pas disponible) ||  [ [github project](https://github.com/CodingBDX/php-add-pizza) ]
 - [php ruchet des lilas, site associatif](pas disponible) ||  [ [github project](https://github.com/CodingBDX/php-lerucherdeslilas) ]
 - <h3>Python</h3>
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://streamable.com/uodns4 "Now in Android: 55")
 - [fetch magic card compile for windows!](https://drive.google.com/file/d/1apnd46hGX5n61KTc3HEa5_ON2HVvxsgP/view?usp=sharing) ||  [[github project](https://github.com/CodingBDX/magic_proxy)]
 - [little snake game into terminal] ||  [ [github project](https://github.com/CodingBDX/python/tree/main/prototype/snake) ]
 <hr>
