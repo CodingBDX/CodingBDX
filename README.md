@@ -34,6 +34,7 @@
 - [page animation css](http://htmlpreview.github.io/?https://github.com/CodingBDX/html-css/blob/main/prototype/urban-fashion/index.html) || [ [github project](https://github.com/CodingBDX/html-css/tree/main/prototype/urban-fashion) ]
 - <h3><red>Javascript</red></h3>
 - [api magic fetch javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/apimagic/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/apimagic) ]
+- [word association javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/apimagic/index.html) || [ [github project](https://github.com/CodingBDX/tree/main/javascript-word-association) ]
 - [game tic tac toe javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/tictactoe/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/tictactoe) ]
 - [game sudoku javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/sudoku/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/sudoku) ]
 - [todolist javascript](https://codingbdxtodolist.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/apimagic) ]
