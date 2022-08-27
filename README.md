@@ -41,6 +41,7 @@
 - [todolist javascript](https://codingbdxtodolist.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/apimagic) ]
 - [weather api app javascript](http://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/weather_app/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/weather_app) ]
 - [game like flappybird! javascript](https://flappycodingbdx.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/flappy) ]
+- [game blackjack javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript-word-association/blob/master/index.html) || [ [https://github.com/CodingBDX/javascript-word-association/blob/master/index.html) ]
 - [game like snake! with BOOM javascript](https://snakekaboomcodingbdx.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/snakekaboom) ]
 - [API from insee official javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/api-insee/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/api-insee) ]
 - [generator birthday date javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/birthday%20random/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/birthday%20random) ]
