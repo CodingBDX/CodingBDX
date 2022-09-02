@@ -37,6 +37,7 @@
 - [word association javascript](https://github.com/CodingBDX/javascript-word-association/blob/master/index.html) || [ [github project](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript-word-association/blob/master/index.html) ]
 - [jeopardy game javascript](https://github.com/CodingBDX/geopardy/blob/master/index.html) || [ [github project](https://htmlpreview.github.io/?https://github.com/CodingBDX/geopardy/blob/master/index.html) ]
 - [slot-machin game javascript](https://github.com/CodingBDX/slot-machin/blob/master/index.html) || [ [github project](https://htmlpreview.github.io/?https://github.com/CodingBDX/slot-machin/blob/master/index.html) ]
+- [le pendu jeu javascript](https://github.com/CodingBDX/jeu_pendu/blob/master/index.html) || [ [github project](https://htmlpreview.github.io/?https://github.com/CodingBDX/jeu_pendu/blob/master/index.html) ]
 - [game tic tac toe javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/tictactoe/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/tictactoe) ]
 - [game sudoku javascript](https://htmlpreview.github.io/?https://github.com/CodingBDX/javascript/blob/main/prototype/sudoku/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/sudoku) ]
 - [todolist javascript](https://codingbdxtodolist.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/javascript/tree/main/prototype/apimagic) ]
