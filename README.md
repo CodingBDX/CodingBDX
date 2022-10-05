@@ -27,6 +27,7 @@
 - [freecodecamp tribute](https://tributecodingbdx.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/html-css/tree/main/training/freecodecamp/tribute_page) ]
 - [freecodecamp landing](https://landingcodingbdx.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/html-css/tree/main/training/freecodecamp/landing_page) ]
 - [freecodecamp survey](https://surveycodingbdx.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/html-css/tree/main/training/freecodecamp/survey_form) ]
+- [wildcodeschool project one dracula cv](https://dracula-wild-code-school.herokuapp.com/index.php?lang-fr=) || [ [github project](https://github.com/CodingBDX/project-1-dracula) ]
 - [wildcodeschool enter project with bootstrap](https://wildcodeschoolcodingbdx.herokuapp.com/index.html) || [ [github project](https://github.com/CodingBDX/wilcodeschool) ]
 - [page cocacola animation css](http://htmlpreview.github.io/?https://github.com/CodingBDX/html-css/blob/main/prototype/cocacola/index.html) || [ [github project](https://github.com/CodingBDX/html-css/tree/main/prototype/education) ]
 - [page education test svg](http://htmlpreview.github.io/?https://github.com/CodingBDX/html-css/blob/main/prototype/education/index.html) || [ [github project](https://github.com/CodingBDX/html-css/tree/main/prototype/cocacola) ]
