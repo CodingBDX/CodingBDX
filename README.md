@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **react,symfony,laravel,docker**
 
 - 👯 I have made this projects 
-- [Mon CV](http://htmlpreview.github.io/?https://github.com/CodingBDX/html-css/blob/main/prototype/cv-anto/index.html)
+- [Mon CV](https://my-resum-charier.herokuapp.com/)
 - <h3><red>Apprentissage langage</red></h3>
 - [php8 repository](https://github.com/CodingBDX/php8) 
 - [larevel9 repository](https://github.com/CodingBDX/laravel-9) 
